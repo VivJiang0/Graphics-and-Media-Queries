@@ -1,0 +1,15 @@
+body{
+  background:url(https://th.bing.com/th/id/R.e8a2e7e04deb7729390298cb36f7ec4d?rik=PEqfvRCvHxWo4A&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2fe%2f8%2fa%2f2%2f14955490171702260860background2.jpg&ehk=PtZj%2fT%2fWsZHZh1Xwl5MDDIlkMswMBtQS5M39SJhNn%2fA%3d&risl=&pid=ImgRaw&r=0);
+}
+
+@media only screen and (max-width:600px) {
+  body{
+    background-color:olive;
+    color:navy;
+  }
+
+  svg{
+    border:solid magenta 15px;
+    opacity:0.3;
+  }
+}
